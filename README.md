@@ -1,5 +1,5 @@
 ### Hey I'm Kaustubha DS.  👋
-<div align="left"> <img width="100" height="20" src="https://komarev.com/ghpvc/?username=dskaustubh&style=flat-square&color=AA7BC3" alt="kushal-g" /> </div> 
+<div align="left"> <img width="100" height="20" src="https://komarev.com/ghpvc/?username=dskaustubh&style=flat-square&color=AA7BC3" alt="dskaustubh" /> </div> 
 
 <!--
 **dskaustubh/dskaustubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
