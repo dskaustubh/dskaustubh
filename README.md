@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me :😃
-## I am a 3rd year student, currently pursuing my undergraduate degree in Computer Science at Ramaiah Institute of Technology . I am keenly interested in Deep Learning ,Data Science and Software Development. 
+## I am a final year student, currently pursuing my undergraduate degree in Computer Science at Ramaiah Institute of Technology. I am extremely curious about technology and its application to solve real-world problems.
 
 ### Contact me :📫
 
