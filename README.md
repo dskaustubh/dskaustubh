@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me :😃
-## I am a Software Engineer who is extremely curious about technology and its application to solve real-world problems.
+## I am a Software Engineer who is extremely curious about technology and its application to solving real-world problems.
 
 ### Contact me :📫
 
