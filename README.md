@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me :😃
-## I am a Software Engineer who is extremely curious about technology and its application to solving real-world problems.
+## As a Software Development Engineer, I am curious about technology and its applications to address real-world challenges. I excel at tackling complex problems, carefully weighing the tradeoffs to design effective solutions. My approach to implementation is hands-on; I believe in building rapidly and learning through experimentation.
 
 ### Contact me :📫
 
