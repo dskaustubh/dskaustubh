@@ -21,6 +21,3 @@ Here are some ideas to get you started:
 ### Contact me :📫
 
 <a href="https://www.linkedin.com/in/dskaustubh"><img src="https://img.icons8.com/?id=13930&format=png&color=000000" width=27></a> 
-<a href="https://dskaustubh.github.io"><img src="https://dskaustubh.github.io/images/fb_pro_pic.jpg" width=27></a> 
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dskaustubh&show_icons=true&hide=stars&count_private=true&theme=buefy" alt="dskaustubh" /> </p>  
